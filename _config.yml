@@ -1,0 +1,13 @@
+# Site settings
+title: Programing with heart and action
+email: heart.and.action@gmail.com
+description: |
+  \//||\/||
+  // ||  ||__ 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://canatac.net" # the base hostname & protocol for your site
+twitter_username: can_atac
+github_username:  canatac
+encoding: utf-8
+# Build settings
+markdown: kramdown
