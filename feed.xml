@@ -6,16 +6,33 @@
 </description>
     <link>http://canatac.net/</link>
     <atom:link href="http://canatac.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 May 2015 12:28:27 +0200</pubDate>
-    <lastBuildDate>Tue, 12 May 2015 12:28:27 +0200</lastBuildDate>
+    <pubDate>Tue, 12 May 2015 12:44:05 +0200</pubDate>
+    <lastBuildDate>Tue, 12 May 2015 12:44:05 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>DAY 2 : Discover Yeoman</title>
-        <description>&lt;p&gt;I followed this one-hour tutorial from yeoman.io to generate an angular project.&lt;/p&gt;
+        <title>DAY 3 : MEAN Project tuto</title>
+        <description>&lt;p&gt;A really good &lt;a href=&quot;https://thinkster.io/mean-stack-tutorial/&quot;&gt;tuto&lt;/a&gt; to understand what a MEAN project is.
+You should have an entire day free to do it quietly.&lt;/p&gt;
 
-&lt;p&gt;Useful resources :
-[yeoman.io]: http://yeoman.io/codelab.html&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 May 2015 14:36:10 +0200</pubDate>
+        <link>http://canatac.net/jekyll/mean/tutorial/2015/05/12/You-MEAN.html</link>
+        <guid isPermaLink="true">http://canatac.net/jekyll/mean/tutorial/2015/05/12/You-MEAN.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>mean</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>DAY 2 : Discover Yeoman</title>
+        <description>&lt;p&gt;I followed this one-hour tutorial from &lt;a href=&quot;http://yeoman.io/codelab.html&quot;&gt;yeoman.io&lt;/a&gt; to generate an angular project.&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 27 Apr 2015 12:41:30 +0200</pubDate>
         <link>http://canatac.net/yeoman/codio/angular/2015/04/27/discover-yeoman.html</link>
