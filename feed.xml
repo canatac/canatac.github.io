@@ -6,9 +6,49 @@
 </description>
     <link>http://canatac.net/</link>
     <atom:link href="http://canatac.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 May 2015 13:10:10 +0200</pubDate>
-    <lastBuildDate>Tue, 12 May 2015 13:10:10 +0200</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2015 12:55:08 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2015 12:55:08 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>DAY 120 : Learning Androïd development with Coursera</title>
+        <description>&lt;p&gt;I get my certificate from Coursera one week ago on ‘Programming Mobile Applications for Android Handheld Systems: Part 1’.
+My feedback about this course is positive, you should take it with the ‘signature track’. It costs 43€. 
+The teacher is great, taking time on the basics that you need to know.&lt;/p&gt;
+
+&lt;p&gt;You could avoid the signature track, and do it freely. But as you pay, you’re under pressure and you pledge to finish the course.
+There were 4 weeks of 5 to 10 hours of study.
+Each week, you have to answer the quizz and submit a mini Androïd project.
+At the end, you will know :
+- How to create screens with UI elements
+- How to navigate between screens
+- How to build complex layout screen
+During the learning process, you will learn to use the IDE (Androïd Studio for my part), the simulator, the debugger.
+You will also have to launch JUnit tests.&lt;/p&gt;
+
+&lt;p&gt;At the end, you get several projects which will be your working template to develop more complex projects.&lt;/p&gt;
+
+&lt;p&gt;WATCH THE DATE :
+This course gives you extension time of 4-5 days for those who are late. It costs you 5% of your step score.&lt;/p&gt;
+
+&lt;p&gt;The last submission date has been a source of confusion.
+It interfered with the last quizz date. Many students have been trapped, thinking the last project submission date would be late after the last quizz date.
+As a general rule, don’t wait the last minute. Get some time to review the planning, even re-submit your project. Remember you will lose some valuable points if you miss the extension date.&lt;/p&gt;
+
+&lt;p&gt;Next : Programming Mobile Applications for Android Handheld Systems: Part 2 !!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 14:27:33 +0200</pubDate>
+        <link>http://canatac.net/android/dev/courses/2015/06/29/Android-Coursera.html</link>
+        <guid isPermaLink="true">http://canatac.net/android/dev/courses/2015/06/29/Android-Coursera.html</guid>
+        
+        
+        <category>android</category>
+        
+        <category>dev</category>
+        
+        <category>courses</category>
+        
+      </item>
     
       <item>
         <title>DAY 4 : Androïd dev</title>
